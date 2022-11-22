@@ -1,5 +1,5 @@
-<video src="[video1.mp4](http://212.42.115.186:8000/;stream.mp3)" >Марал Радиосу</video>
 
+[Марал Радиосу](http://212.42.115.186:8000/;stream.mp3) \
 [iRadio](http://212.112.123.200:8000/stream.ogg) \
 [Алмаз Бишкек 102.1 FM](http://almazfm.ddns.net:8888/;) \
 [Тумар FM](https://radio.tumar.fm:8005/stream) \
@@ -23,4 +23,4 @@
 [Авторадио Киргизия](http://212.112.106.66:8080/) \
 [Радио Sputnik Кыргызстан](https://icecast-rian.cdnvideo.ru/voicekgz) \
 [ТНТ Music Radio](https://tntradio.hostingradio.ru:8027/tntradio128.mp3) \
-[Радио Рекорд Кыргызстан](http://31.186.50.67:8000/record.mp3) \
+[Радио Рекорд Кыргызстан](http://31.186.50.67:8000/record.mp3) 

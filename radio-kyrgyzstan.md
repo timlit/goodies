@@ -1,6 +1,6 @@
 
-[Марал Радиосу](http://212.42.115.186:8000/;stream.mp3)
-[iRadio](http://212.112.123.200:8000/stream.ogg)
+[Марал Радиосу](http://212.42.115.186:8000/;stream.mp3) \
+[iRadio](http://212.112.123.200:8000/stream.ogg) \
 [Алмаз Бишкек 102.1 FM](http://almazfm.ddns.net:8888/;)
 [Тумар FM](https://radio.tumar.fm:8005/stream)
 [STUDIO 21](https://cdn.radioplayer.kg:8443/studio2164)

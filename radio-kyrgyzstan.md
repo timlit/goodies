@@ -7,7 +7,7 @@
 [Радио ОК](https://stream.okradio.kg:8005/stream) \
 [Manas FM](http://live.mediamanas.kg:8000/online) \
 [Санжыра радиосу](http://212.112.106.69:8000/sanjyra) \
-[Ретро FM Кыргызстан](https://cdn.radioplayer.kg:8443/retro128) \
+[Ретро FM Кыргызстан](https://cdn.radioplayer.kg:8443/retro64) \
 [Хит FM Кыргызстан](https://cdn.radioplayer.kg:8443/hitfm64) \
 [Кыргызстан Обондору](https://cdn.radioplayer.kg:8443/obondoru64) \
 [Кыргызстан Обондору GOLD](https://player.europa.kg:1075/stream?ver=74042) \
